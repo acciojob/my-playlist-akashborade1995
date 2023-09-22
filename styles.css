@@ -11,3 +11,13 @@
 #aa{
 	background-color:rgb(204, 204, 204);
 }
+#video{
+	background-color:rgb(255, 255, 255);
+	padding:10px
+	border-radius:100px;
+}
+#audio{
+	background-color:rgb(255, 255, 255);
+	padding:0px;
+	border-radius:100px;
+}
