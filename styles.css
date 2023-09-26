@@ -1,23 +1,25 @@
 /*  your css code here. If applicable */
-#playlist{
-	list-style-type:none;
-}
-#my_playlist{
-	text-align:center;
-}
-#nowplay{
-	text-align:center;
-}
-#aa{
+body{
 	background-color:rgb(204, 204, 204);
 }
-#video{
-	background-color:rgb(255, 255, 255);
-	padding:10px
-	border-radius:100px;
+#playlist{
+	list-style-type:none;
+	background-color:white;
+	border:1px solid black;
+	border-radius:10px;
+	height:100px;
+	padding:20px;
 }
-#audio{
-	background-color:rgb(255, 255, 255);
-	padding:0px;
-	border-radius:100px;
+#my_playlist ,#nowplay{
+	text-align:center;
+}
+#jaan>p{
+	color:white;
+}
+#nowplay >video{
+	border:1px solid black;
+	padding:10px;
+	background-color:white;
+	border-radius:5px;
+	
 }
